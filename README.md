@@ -17,11 +17,11 @@
 
 ### 🎯 About Me
 
-Computer Science Engineering student at Karunya Institute of Technology and Sciences with a passion for building innovative solutions that bridge the gap between cutting-edge technology and real-world impact. Currently serving as a Student Guide and Developer at KIDS, where I mentor students and develop enterprise-grade applications.
+Computer Science Engineering student at Karunya Institute of Technology and Sciences with a passion for building innovative solutions that destroys the gap between cutting-edge technology and real-world impact. My projects are like a part of me, which i share to the open-souce community.
 
 ```ascii
 ┌─────────────────────────────────────────────────────────────────┐
-│  "Code is poetry, and every project is a story waiting to be   │
+│  "Code is poetry, and every project is a story waiting to be    │
 │   told through elegant solutions and innovative thinking."      │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -40,7 +40,7 @@ Programming Languages
 
 Web Development
 ├── Frontend        [React, Next.js, HTML5, CSS3, TypeScript]
-├── Backend         [Django, Node.js, Express.js, REST APIs]
+├── Backend         [Django, Node.js, Express.js, REST APIs, Fast APIs]
 └── Databases       [PostgreSQL, MongoDB, Vector DBs (FAISS/Milvus)]
 
 Mobile & AI
@@ -85,14 +85,14 @@ DevOps & Cloud
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│ Full Stack Developer @ Quicto                    May 2025 - Present │
+│ Full Stack Developer @ Quicto                 May 2025 - Present │
 ├──────────────────────────────────────────────────────────────────┤
-│ • Developed partnership campaign applications using React/Django  │
+│ • Developed partnership campaign applications using React/Django │
 │ • Deployed solutions on Azure Static Web Apps & Container Apps   │
 └──────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
-│ Student Guide & Developer @ KIDS                Jul 2025 - Present │
+│ Student Guide & Developer @ KIDS              Jul 2025 - Present │
 ├──────────────────────────────────────────────────────────────────┤
 │ • Built and deployed kids.karunya.edu management platform        │
 │ • Mentored 50+ students in app development and deployment        │
@@ -128,21 +128,14 @@ DevOps & Cloud
 
 ### 🌟 Leadership & Contributions
 
-- **Innovator** at Karunya Incubation Centre
 - **Coordinator** of App Development Club at KIDS
-- **Trainer** conducting workshops on modern development practices
+- **Trainer** conducting workshops on modern development practices KIDS
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  Currently exploring: Edge AI | WebAssembly | Rust | Web3       ║
-║  Open to collaborate on: AI/ML Projects | Open Source | EdTech  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
 <p align="center">
-  <i>Building the future, one commit at a time.</i>
+  <i>I Live My Life One Commit At A Time.</i>
 </p>
